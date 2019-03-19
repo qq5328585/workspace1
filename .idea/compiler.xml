@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Gen2DCreditMessage" />
+        <module name="project-son1" />
+        <module name="project-son2" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Gen2DCreditMessage" target="6" />
+      <module name="maven-plugin" target="1.5" />
+      <module name="maven.project.father" target="1.5" />
+      <module name="mavenfirstweb" target="1.5" />
+      <module name="mavenprojectfather" target="1.5" />
+      <module name="mavenwebfirst" target="1.7" />
+      <module name="project-son1" target="1.7" />
+      <module name="project-son2" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mavenprojectfather/Gen2DCreditMessage/Gen2DCreditMessage.iml" filepath="$PROJECT_DIR$/mavenprojectfather/Gen2DCreditMessage/Gen2DCreditMessage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyFirstProject/MyFirstProject.iml" filepath="$PROJECT_DIR$/MyFirstProject/MyFirstProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebProject/WebProject.iml" filepath="$PROJECT_DIR$/WebProject/WebProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavenprojectfather/maven.project.father.iml" filepath="$PROJECT_DIR$/mavenprojectfather/maven.project.father.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavenprojectfather/project-son1/project-son1.iml" filepath="$PROJECT_DIR$/mavenprojectfather/project-son1/project-son1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavenprojectfather/project-son2/project-son2.iml" filepath="$PROJECT_DIR$/mavenprojectfather/project-son2/project-son2.iml" />
+    </modules>
+  </component>
+</project>

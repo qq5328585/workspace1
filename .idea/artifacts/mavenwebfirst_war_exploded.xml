@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="mavenwebfirst:war exploded">
+    <output-path>$PROJECT_DIR$/mavenwebfirst/target/maven.web.first</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="mavenwebfirst" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/mavenwebfirst/target/maven.web.first/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="mavenwebfirst/web/Web" />
+    </root>
+  </artifact>
+</component>
